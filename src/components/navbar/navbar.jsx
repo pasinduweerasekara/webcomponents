@@ -1,5 +1,4 @@
 import React,{useState} from 'react'
-// import './navbarprefixed.css'
 import './navbar.css'
 import logo from '../../statics/logo.svg' //import logo
 import searchIcon from '../../statics/search-thin.svg' //import search icon
